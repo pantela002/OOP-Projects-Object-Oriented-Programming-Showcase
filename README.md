@@ -59,3 +59,36 @@ Enter the command: SELECT
 - Enter the contact name: Milan
 - No contact has been found.
 Enter the command: EXIT
+```
+
+
+# **Bus Traffic Network Application**
+
+## Objective
+
+Develop an application for managing bus traffic, allowing users to view bus arrivals and plan optimal routes.
+
+## Functional Specifications
+
+### User Interface
+- **Map View**: Provide a map-like interface similar to Google Maps where users can view current bus locations.
+- **Arrival Times**: Display estimated arrival times for buses at various stops.
+
+### Route Optimization
+- **Optimal Route**: Implement algorithms to find the optimal route for a user’s destination.
+- **Real-Time Data**: Include features for searching and planning routes based on real-time data.
+
+## Example Usage
+
+- **Viewing Bus Locations**: Users can see the current locations of buses on a map.
+- **Finding Bus Arrivals**: The app will show the expected arrival times of buses at various stops.
+- **Planning Routes**: Users can input their destination and receive the best route options.
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues. Ensure your contributions adhere to the coding standards and guidelines provided.
+
+## License
+
+This repository is licensed under the MIT License.
+
